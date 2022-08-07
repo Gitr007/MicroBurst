@@ -47,6 +47,10 @@ Recommended Modules to install:
 * <a href="https://docs.microsoft.com/en-us/powershell/module/azuread/?view=azureadps-2.0">AzureAd</a>
 * <a href="https://docs.microsoft.com/en-us/powershell/module/msonline/?view=azureadps-1.0">MSOnline</a>
 
+### Documentation:
+
+<a href="https://cloudsecdocs.com/azure/services/overview/">Cloud Security Docs</a>
+
 ### Related Blogs
 * <a href="https://blog.netspi.com/a-beginners-guide-to-gathering-azure-passwords/">A Beginners Guide to Gathering Azure Passwords</a>
 * <a href="https://blog.netspi.com/enumerating-azure-services/">Anonymously Enumerating Azure Services</a>
